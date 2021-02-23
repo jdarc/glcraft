@@ -1,0 +1,77 @@
+newmtl Arms
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+illum 2
+map_ao arms_ambientocclusion.jpg
+map_Kd arms_basecolor.jpg
+map_Ke arms_emissive.jpg
+map_Pm arms_metallic.jpg
+norm arms_normal.jpg
+bump arms_roughness.jpg
+map_Pr arms_roughness.jpg
+map_bump arms_roughness.jpg
+
+newmtl Belt
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+illum 2
+map_ao belt_ambientocclusion.jpg
+map_Kd belt_basecolor.jpg
+map_Ke belt_emissive.jpg
+map_Pm belt_metallic.jpg
+norm belt_normal.jpg
+bump belt_roughness.jpg
+map_Pr belt_roughness.jpg
+map_bump belt_roughness.jpg
+
+newmtl Feet
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+illum 2
+map_ao feet_ambientocclusion.jpg
+map_Kd feet_basecolor.jpg
+map_Ke feet_emissive.jpg
+map_Pm feet_metallic.jpg
+norm feet_normal.jpg
+bump feet_roughness.jpg
+map_Pr feet_roughness.jpg
+map_bump feet_roughness.jpg
+
+newmtl Head
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+illum 2
+map_ao head_ambientocclusion.jpg
+map_Kd head_basecolor.jpg
+map_Ke head_emissive.jpg
+map_Pm head_metallic.jpg
+norm head_normal.jpg
+bump head_roughness.jpg
+map_Pr head_roughness.jpg
+map_bump head_roughness.jpg
+
+newmtl Shoulders
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+illum 2
+map_ao shoulders_ambientocclusion.jpg
+map_Kd shoulders_basecolor.jpg
+map_Ke shoulders_emissive.jpg
+map_Pm shoulders_metallic.jpg
+norm shoulders_normal.jpg
+bump shoulders_roughness.jpg
+map_Pr shoulders_roughness.jpg
+map_bump shoulders_roughness.jpg
+
+newmtl Torso
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+illum 2
+map_ao torso_ambientocclusion.jpg
+map_Kd torso_basecolor.jpg
+map_Ke torso_emissive.jpg
+map_Pm torso_metallic.jpg
+norm torso_normal.jpg
+bump torso_roughness.jpg
+map_Pr torso_roughness.jpg
+map_bump torso_roughness.jpg
